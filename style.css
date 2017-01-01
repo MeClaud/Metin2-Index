@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
+html{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: url(img/background.png) no-repeat center top #0e0f11;
+}
+.container{
+	width: 603px;
+	margin: auto;
+}
+.logo{
+	width: 603px;
+	height: 200px;
+	text-align: center;
+}
+.logo img{
+	margin-top: 50px;
+}
+.main{
+	background: url(img/main_box.png) no-repeat center;
+	width: 603px;
+	height: 262px;
+	color: #676;
+	font-family: 'Arima Madurai', cursive;
+	font-size: .8em;
+}
+.main iframe{
+	padding: 20px;
+	width: 565px;
+	height: 225px;
+}
+.nav{
+	width: 600px;
+	height: 78px;
+}
+.nav-menu{
+	list-style-type: none;
+	display: inline;
+	position: relative;
+	left: -40px;
+}
+.nav-menu li{
+	display: inline;
+	width: 297px;
+	height: 78px;
+}
+.forum{
+	right: 20px;
+	width: 290px;
+	margin-left: 11px;
+}
+a:hover{
+	opacity: .95;
+}
+.nav-status{
+	background: url(img/status_nav.png) no-repeat;
+	background-size: 100%;
+	width: 600px;
+	height: 70px;
+}
+.copyright{
+	color: #777;
+	font-family: 'Arima Madurai', cursive;
+	font-size: .8em;
+	text-align: center;
+}
+.copyright a{
+	color: #999;
+	text-decoration: none;	
+}
+.copyright a:hover{
+	color: #aaa;
+	text-decoration: underline;	
+}

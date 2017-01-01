@@ -1,0 +1,13 @@
+Deny from all
+Allow from localhost
+
+<Files "config.json">
+Order Allow,Deny
+Deny from all
+Allow from localhost
+</Files>
+<Files "core.php">
+Order Allow,Deny
+Deny from all
+Allow from localhost
+</Files>

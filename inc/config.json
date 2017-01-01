@@ -1,0 +1,12 @@
+{
+	"svname": "Aries2", 
+	"svslogan": "Scoate PVP-ul din tine!",
+	"ytembedcode": "JKX4zVXfGU8",
+	"homepage-url": "#homepage",
+	"forum-url": "#forum",
+	"svip": "127.0.0.1",
+	"mysql": 3306,
+	"login": 3306,
+	"server1": 3306,
+	"server2": 3306
+}
