@@ -1,12 +1,13 @@
 # Metin2 Index
 ### Introducere
-Am gasit acest index pe internet si am decis sa il incerc. Designul este creat de [Flying Men](http://flying-men.de/).
+Am găsit acest index pe internet și am decis să îl încerc. Designul este creat de [Flying Men](http://flying-men.de/).
 ![Preview](https://meclaud.github.io/assets/screenshots/m2index1.png)
 ### Instalare
-1. Descarcati proiectul si plasati toate fisierele in radacina siteului
- In cazul in care aveti un website deja instalat in radacina sitului, ve-ti fi nevoit, pentru a evita conflictele, sa-l mutati intr-un director nou creat
- In folderul intitulat `PSD original` aveti fisierul PSD folosit de mine pentru a crea acest website
-2. Intrati in directorul `inc` si configurati fisierul `config.json` astfel
+#### 1. Descărcați proiectul și plasati toate fișierele în rădacina siteului
+ În cazul în care aveți un website deja instalat in rădăcina sitului, ve-ți fi nevoit, pentru a evita conflictele, să-l mutați într-un director nou creat.
+ 
+ În directorul intitulat `PSD original` aveți fișierul PSD folosit de mine pentru a crea acest website.
+#### 2. Intrati în directorul `inc` și configurați fișierul `config.json` astfel
 ```json
 {
 	"svname": "Aries2", <- Numele serverului
@@ -21,6 +22,6 @@ Am gasit acest index pe internet si am decis sa il incerc. Designul este creat d
 	"server2": 3306 <- Portul pentru serverul 2 (sau ch2)
 }
 ```
-Modificati imaginile din directorul `img` dupa propriul plac
+Modificați imaginile din directorul `img` după propriul plac.
 
-Am lasat in directorul `img` inca doua backgrounduri pe care puteti sa le incercati.
+Am lăsat în directorul `img` încă două backgrounduri pe care puteți să le încercați.
